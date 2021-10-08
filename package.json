@@ -10,10 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/uzoway/blogr-landing-page.git"
   },
-  "author": "Uzochukwu",
+  "author": "michaelastefkova",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/uzoway/blogr-landing-page/issues"
+    "url": "https://github.com/michaelastefkova/blogr-landing-page"
   },
-  "homepage": "https://github.com/uzoway/blogr-landing-page#readme"
+  "homepage": "https://github.com/michaelastefkova/blogr-landing-page"
 }
